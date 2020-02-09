@@ -1,0 +1,9 @@
+[package]
+name = "gravitation"
+version = "0.1.0"
+authors = ["Gregory Langlais <general@gregorylanglais.com>"]
+edition = "2018"
+description = "Gravitation is a high-throughput network messaging client and server"
+license = "MIT"
+
+[dependencies]
